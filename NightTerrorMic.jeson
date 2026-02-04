@@ -274,5 +274,11 @@
         "key": "key44",
         "expirydate": "15-06-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "8967adab64f10093",
+        "key": "key45",
+        "expirydate": "15-06-2026",
+        "Allowoffline": false
     }
 ]
