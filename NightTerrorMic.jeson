@@ -298,5 +298,11 @@
         "key": "key48",
         "expirydate": "15-06-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "5dadbf9ea1d7b4d4",
+        "key": "key49",
+        "expirydate": "15-06-2026",
+        "Allowoffline": false
     }
 ]
