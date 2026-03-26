@@ -28,5 +28,12 @@
         "key": "key12",
         "expirydate": "15-08-2026",
         "Allowoffline": true
-    }
+    },
+{
+        "device_id": "38c053016a688afa",
+        "key": "raja",
+        "expirydate": "15-08-2026",
+        "Allowoffline": true
+    },
+
 ]
